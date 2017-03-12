@@ -1,0 +1,76 @@
+.image-bg-fluid-height {
+    background: url(../img/clem-2.jpg) no-repeat center center scroll;
+    padding: 0px;
+    height: 600px;
+      margin-top: -120px;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top{
+  padding-bottom: 0px;
+  margin: 0px;
+
+    background-color: rgba(0,0,0,0);
+    border-color:rgba(0,0,0,0);
+}
+
+nav{
+  margin-bottom: 0px;
+  background-color: rgba(0,0,0,0);
+}
+.principal{
+  margin-top: -400px;
+}
+.brand{
+}
+.register{
+    background-color: #FFF;
+    padding-top: 20px;
+    /*height: 700px;*/
+}
+.inp-he{
+height:50px;
+}
+a.linkedin{
+  width:100%;
+  padding:13px;
+}
+.olvidado{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.enviar{
+  width:100%;
+  height:50px;
+}
+.publicaciones{
+  padding-top:40px;
+}
+.img-false{
+  width: 100%;
+}
+
+.a-blanco{
+  color: #FFF !important;
+}
+
+.toallas{
+  margin-bottom: 20px;
+}
+.toallas-2{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.claim-p{
+  color: #FFF;
+    padding-left: 90px;
+        font-size: 1.4em;
+}
+.claim-h1{
+  color: #FFF;
+  padding-left: 90px;
+}
+.footer{
+  margin-top: 20px;
+  padding: 0px;
+}
